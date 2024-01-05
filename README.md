@@ -41,3 +41,5 @@ cd <path/to/project>
 devenv shell
 # installing the shell...
 devenv up
+```
+
